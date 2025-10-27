@@ -1,4 +1,4 @@
-# e-commerce_sales_analysis
+# E-Commerce Sales Analysis
 
 ## E-Commerce Sales Dashboard (Power BI)
 <img width="1313" height="737" alt="image" src="https://github.com/user-attachments/assets/c5c57a44-c73b-4636-afb3-07d30b244b22" />
